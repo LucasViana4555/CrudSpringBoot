@@ -83,10 +83,10 @@ Criar Usuário (POST)
 URL: http://localhost:8080/usuario
 Body (JSON):
 
-```java{
+{
     "nome": "Lucas",
     "email": "lucas@email.com"
-}```
+}
 
 
 Buscar Usuário (GET)
