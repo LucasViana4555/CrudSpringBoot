@@ -98,9 +98,9 @@ Atualizar Usuário (PUT)
 URL: http://localhost:8080/usuario?id=1
 Body (JSON):
 
-```java{
+{
     "nome": "Lucas Atualizado"
-}```
+}
 
 
 (Note que se não enviar o email, a lógica do Service mantém o antigo).
